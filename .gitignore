@@ -7,7 +7,6 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env
 .phpunit.result.cache
 .rnd
 /.expo
@@ -17,3 +16,4 @@ Homestead.yaml
 /public/docs
 /.scribe
 !storage/fonts/.gitkeep
+config.bat
