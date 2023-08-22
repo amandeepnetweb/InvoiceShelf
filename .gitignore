@@ -7,13 +7,12 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env
 .phpunit.result.cache
 .rnd
 /.expo
-/.vscode
 /docker-compose/db/data/
 .gitkeep
 /public/docs
 /.scribe
 !storage/fonts/.gitkeep
+config.bat
