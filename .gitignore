@@ -8,12 +8,10 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env
 .phpunit.result.cache
 .phpunit.cache/
 .rnd
 /.expo
-/.vscode
 .gitkeep
 /public/docs
 /.scribe
@@ -22,3 +20,4 @@ Homestead.yaml
 .php-cs-fixer.cache
 /storage/fonts*
 package-lock.json
+config.bat
